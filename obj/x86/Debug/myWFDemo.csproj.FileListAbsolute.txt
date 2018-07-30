@@ -1,0 +1,37 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Debug\myWFDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Debug\myWFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Debug\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\_myWFDemo.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\Workflow1.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_CompiledExpressionRoot.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.FileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\bin\Debug\myWFDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\bin\Debug\myWFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\bin\Debug\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\_myWFDemo.g.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\Workflow1.g.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csproj.FileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\myWFDemo_Workflow1_CompiledExpressionRoot.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\(WF) Windows Workflow Foundation\byte format sequencer\myWFDemo\myWFDemo\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml

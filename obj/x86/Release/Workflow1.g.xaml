@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<this:Workflow1 this:count="0" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:this="clr-namespace:myWFDemo;assembly=myWFDemo" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <this:Workflow1.argInput>
+    <InArgument x:TypeArguments="x:Decimal">
+      <mca:CSharpValue x:TypeArguments="x:Decimal">12345678</mca:CSharpValue>
+    </InArgument>
+  </this:Workflow1.argInput>
+  <this:Workflow1.unitName>
+    <InArgument x:TypeArguments="s:String[]">
+      <mca:CSharpValue x:TypeArguments="s:String[]">new string[] { "B Bytes", "KB Kilobytes", "MB Megabytes", "GB Gigabytes", "TB Terabytes", "PB Petabytes", "EB Exabytes", "ZB Zettabytes", "YB Yottabytes", "BB Brontobytes" }</mca:CSharpValue>
+    </InArgument>
+  </this:Workflow1.unitName>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Text</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.CSharp</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>myWFDemo</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <this:Workflow1.Implementation>
+    <Sequence DisplayName="Byte Format Sequence">
+      <WriteLine>
+        <InArgument x:TypeArguments="x:String">
+          <mca:CSharpValue x:TypeArguments="x:String">"Input: " + argInput.ToString()</mca:CSharpValue>
+        </InArgument>
+      </WriteLine>
+      <While>
+        <While.Condition>
+          <mca:CSharpValue x:TypeArguments="x:Boolean">argInput &gt; 1024</mca:CSharpValue>
+        </While.Condition>
+        <Sequence>
+          <Assign>
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Decimal">
+                <mca:CSharpReference x:TypeArguments="x:Decimal">argInput</mca:CSharpReference>
+              </OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Decimal">
+                <mca:CSharpValue x:TypeArguments="x:Decimal">argInput/1024</mca:CSharpValue>
+              </InArgument>
+            </Assign.Value>
+          </Assign>
+          <Assign>
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Int32">
+                <mca:CSharpReference x:TypeArguments="x:Int32">count</mca:CSharpReference>
+              </OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Int32">
+                <mca:CSharpValue x:TypeArguments="x:Int32">count+1</mca:CSharpValue>
+              </InArgument>
+            </Assign.Value>
+          </Assign>
+        </Sequence>
+      </While>
+      <WriteLine>
+        <InArgument x:TypeArguments="x:String">
+          <mca:CSharpValue x:TypeArguments="x:String">argInput.ToString("0.00")+ unitName[count]</mca:CSharpValue>
+        </InArgument>
+      </WriteLine>
+      <Delay Duration="00:00:59" />
+      <sads:DebugSymbol.Symbol>9xCHdF0oo2j6RNtMY62Ac2pRhQFDOlxVc2Vyc1xLYXRobGVlbldlc3RcRHJvcGJveFxDYXJlZXJcQ2xhc3Nlc1xVQyBTYW4gRGllZ28gRXh0ZW5zaW9uXEZ1bmRhbWVudGFscyBvZiBkb3QgTkVUXExlc3NvbiA1XG15V0ZEZW1vXG15V0ZEZW1vXFdvcmtmbG93MS54YW1sEwFdAV8BBB0HHfQBAQMYBxhOAQI8A2gOAgEBPQVBEQIBIUIFYA0CAQlhBWURAgEEZgVmTAIBAj8JP2YCASJGB18SAgEORAlEWgIBCmMJY3ECAQVmFWYfAgEDRwlSEgIBGFMJXhICAQ9PD09bAgEdSg9KXgIBGVsPW1MCARRWD1ZZAgEQ</sads:DebugSymbol.Symbol>
+    </Sequence>
+  </this:Workflow1.Implementation>
+</this:Workflow1>

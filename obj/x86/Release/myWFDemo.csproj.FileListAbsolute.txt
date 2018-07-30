@@ -1,0 +1,16 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Release\myWFDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Release\myWFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\bin\Release\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\Workflow1.g.xaml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\_myWFDemo.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\Workflow1.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo_Workflow1_CompiledExpressionRoot.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo.exe

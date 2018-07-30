@@ -1,0 +1,4 @@
+obj\x86\Release\_myWFDemo.g.cs
+obj\x86\Release\Workflow1.g.cs
+obj\x86\Release\myWFDemo_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWFDemo\myWFDemo\obj\x86\Release\myWFDemo_Workflow1_CompiledExpressionRoot.cs
